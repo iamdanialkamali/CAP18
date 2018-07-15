@@ -1,0 +1,6 @@
+vhdl isim_temp "regFile.vhd"
+vhdl isim_temp "instructionMemory.vhd"
+vhdl isim_temp "dataMemory.vhd"
+vhdl isim_temp "controller.vhd"
+vhdl isim_temp "ALU.vhd"
+vhdl isim_temp "Main.vhd"

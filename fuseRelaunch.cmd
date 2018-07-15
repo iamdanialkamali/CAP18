@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/cpu9/Main_isim_beh.exe" -prj "D:/cpu9/Main_beh.prj" "work.Main" 

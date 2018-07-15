@@ -1,0 +1,6 @@
+vhdl work "regFile.vhd"
+vhdl work "instructionMemory.vhd"
+vhdl work "dataMemory.vhd"
+vhdl work "controller.vhd"
+vhdl work "ALU.vhd"
+vhdl work "Main.vhd"
